@@ -1,0 +1,35 @@
+<!--
+  Copyright 2022 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">Cartoons</string>
+    <string name="Special_Content">Special Content</string>
+    <string name="The_Best_Cartoon">The Best Cartoon</string>
+    <string name="Coraje_Perro_Cobarde">Coraje el Perro Cobarde</string>
+    <string name="Mas_Alla_del_Jardin">Más Alla del Jardin</string>
+    <string name="Samurai_Jack">Samurai Jack</string>
+    <string name="Johnny_Bravo">Johnny Bravo</string>
+    <string name="Regular_Show">Regular Show</string>
+    <string name="Teen_Titans">Teen Titans</string>
+    <string name="The_Amazing_World_of_Gumball">The Amazing World of Gumball</string>
+    <string name="CN_Artworks">Artworks</string>
+    <string name="CN_Movies">Movies</string>
+    <string name="CN_Special_Chrismas">Special Chrismas</string>
+    <string name="CN_Anniversary">CN Aniversary 30th</string>
+    <string name="CN_Series_Expansives">Series Expansives</string>
+    <string name="CN_ReDraw_Your_World">ReDraw Your World</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="placeholder_search">Search</string>
+</resources>
